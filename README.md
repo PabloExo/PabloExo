@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @PabloExo
+- 👀 I’m interested in PowerBI, Microsoft Excel, VBA, PowerApps
+- 🌱 Python, PowerBI
+- 💞️ I’m looking to collaborate on Excel VBA
+- 📫 How to reach me : pabloa@outlook.com; excelyvos@outlook.com
